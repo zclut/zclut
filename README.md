@@ -1,5 +1,5 @@
 <h1 align="center">⭐ Juan Daniel Padilla ⭐</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zclut&label=Profile%20views&color=5b4282&style=flat" alt="zclut" /> </p>
 
