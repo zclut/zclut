@@ -93,11 +93,6 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=zclut&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zclut&show_icons=true&theme=dark&locale=en" alt="zclut" /></p>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zclut&hide_border=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zclut&theme=dark" alt="zclut" /></p>
